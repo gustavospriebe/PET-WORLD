@@ -1,5 +1,5 @@
-# Clone-site-PET-WORLD
+#Site-PET-WORLD
 
 
-Site adaptado do https://templatemo.com/ para um trabalho da Faculdade de ADM.
+Site adaptado para um trabalho da Faculdade de ADM.
 F
